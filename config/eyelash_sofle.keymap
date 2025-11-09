@@ -86,8 +86,8 @@
 	        layer_1 {
             bindings = <
 &bt BT_CLR  &bt BT_SEL 0    &bt BT_SEL 1    &bt BT_SEL 2    &bt BT_SEL 3    &bt BT_SEL 4    &none          &trans          &trans          &trans          &trans          &trans          &trans
-&trans      &kp C_BRI_DN    &kp C_BRI_UP    &trans          &trans          &trans          &none          &trans          &trans          &trans          &trans          &trans          &trans
-&trans      &kp LEFT        &kp DOWN        &kp UP          &kp RIGHT       &trans          &none          &kp C_VOL_DN    &kp C_VOL_UP    &trans          &trans          &trans          &trans
+&trans      &kp C_BRI_DN    &kp C_BRI_UP    &kp C_VOL_DN    &kp C_VOL_UP    &trans          &none          &trans          &trans          &trans          &trans          &trans          &trans
+&trans      &kp LEFT        &kp DOWN        &kp UP          &kp RIGHT       &trans          &none          &trans          &trans          &trans          &trans          &trans          &trans
 &trans      &kp PG_UP       &kp PG_DN       &kp HOME        &kp END         &trans          &none          &trans          &trans          &trans          &trans          &trans          &trans
 &trans      &trans          &trans          &trans          &trans          &trans          &none          &trans          &trans          &trans          &trans          &trans
             >;
